@@ -23,4 +23,6 @@ RAG pipeline: Documents embedded into vectors stored in a vector database for in
 **Proactive orchestration:**
 The Orchestrator enables cross-agent communication and triggers re-planning when performance changes, delivering a truly autonomous learning assistant.
 
+**GOOGLE DRIVE LINK FOR PROTOTYPE:** https://drive.google.com/file/d/1N-U0sxjxz5lPsAdEj054CS459pql-8JH/view?usp=sharing
+
 
